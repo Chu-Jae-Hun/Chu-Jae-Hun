@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Chu-Jae-Hun's github stats](https://github-readme-stats.vercel.app/api?username={Chu-Jae-Hun}&show_icons=true&theme={theme})](https://github.com/{Chu-Jae-Hun}/github-readme-stats)
+![Chu-Jae-Hun's github stats](https://github-readme-stats.vercel.app/api?username=Chu-Jae-Hun&show_icons=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={Chu-Jae-Hun})](https://solved.ac/{Chu-Jae-Hun})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={Chu-Jae-Hun})](https://solved.ac/{Chu-Jae-Hun})
