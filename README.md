@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there This is my Coding Trail👋
 
 ![Chu-Jae-Hun's github stats](https://github-readme-stats.vercel.app/api?username=Chu-Jae-Hun&show_icons=true)
 
