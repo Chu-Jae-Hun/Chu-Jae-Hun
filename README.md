@@ -1,6 +1,6 @@
 ### Hi there This is my Coding Trail👋
-
-### There is no future without Coding.👋
+================================
+### There is no future without Coding
 ================================
 
 ## JaeHun
